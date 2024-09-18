@@ -1,4 +1,4 @@
-# Java Application Engine 1.2.0
+# Java Application Engine Alpha 1.2.0
 
 **Version**: 1.2.0  
 **Creator**: Garry
