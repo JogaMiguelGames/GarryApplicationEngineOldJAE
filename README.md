@@ -17,5 +17,5 @@ To run JAE, you will need the following dependencies:
 ## Installation
 
 1. Install java 21 or higher
-2. Open JAE/Java Application Engine .jar file
+2. Open JAE/Java Application Engine .jar file.
    
