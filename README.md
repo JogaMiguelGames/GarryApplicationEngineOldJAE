@@ -1,6 +1,6 @@
-# Java Application Engine Alpha 1.2.0
+# Java Application Engine Alpha 1.3.0
 
-**Version**: 1.2.0  
+**Version**: 1.3.0  
 **Creator**: Garry
 **Project Started Date**: 2024-09-15  
 
