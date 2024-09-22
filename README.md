@@ -1,4 +1,4 @@
-# Java Application Engine Alpha 1.3.0
+# Garry's Application Engine
 
 **Version**: 1.3.0  
 **Creator**: Garry
@@ -6,7 +6,7 @@
 
 ## Description
 
-The **Java Application Engine (JAE)** is a platform designed to facilitate the development of applications in Java. This engine, created by Garry, provides a set of features to streamline the development and deployment process.
+The **Garry's Application Engine (GAE)** is a platform designed to facilitate the development of applications in Java. This engine, created by Garry, provides a set of features to streamline the development and deployment process.
 
 ## Dependencies
 
