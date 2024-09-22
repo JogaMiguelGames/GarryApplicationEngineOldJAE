@@ -17,7 +17,7 @@ To run JAE, you will need the following dependencies:
 ## Installation
 
 1. Install java 21 or higher
-2. Open JAE/Java Application Engine .jar file.
+2. Open GAE/Garry's Application Engine .jar file.
 
 Discord: https://discord.com/channels/1286094856342736998
 Itch.io: https://jmgyt-14.itch.io/java-application-engine
